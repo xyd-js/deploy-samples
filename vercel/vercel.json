@@ -1,0 +1,16 @@
+{
+  "buildCommand": "npx @xyd-js/cli build",
+  "outputDirectory": ".xyd/build/client",
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/introduction/",
+      "permanent": true
+    },
+    {
+      "source": "/index.html",
+      "destination": "/introduction/",
+      "permanent": true
+    }
+  ]
+} 
