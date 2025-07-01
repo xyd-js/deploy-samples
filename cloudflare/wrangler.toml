@@ -1,5 +1,5 @@
 name = "xyd-cloudflare"
-main = "./src/index.ts"             
+main = "./index.ts"             
 compatibility_date = "2025-07-01"
 
 [build]
