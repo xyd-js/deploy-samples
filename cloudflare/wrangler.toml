@@ -1,19 +1,18 @@
-name = "xyd-js-docs"
-compatibility_date = "2024-01-01"
+name = "my-xyd-app"
+compatibility_date = "2025-07-01"
+pages_build_output_dir = ".xyd/build/client"
 
 [build]
 command = "bunx @xyd-js/cli build"
-output_dir = ".xyd/build/client"
-
-[build.upload]
-format = "directory"
 
 [[redirects]]
 from = "/"
 to = "/introduction/"
 status = 301
+force = true
 
 [[redirects]]
 from = "/index.html"
 to = "/introduction/"
-status = 301 
+status = 301
+force = true
