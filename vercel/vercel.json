@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npx @xyd-js/cli build",
+  "buildCommand": "bunx @xyd-js/cli build",
   "outputDirectory": ".xyd/build/client",
   "redirects": [
     {
