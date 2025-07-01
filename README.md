@@ -10,7 +10,7 @@
 
   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/xyd-js/deploy-samples&base=netlify) 
   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fxyd-js%2Fdeploy-samples%2Ftree%2Fmaster%2Fvercel)
-  [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https%3A%2F%2Fgithub.com%2Fxyd-js%2Fdeploy-samples%2Ftree%2Fmaster%2Fcloudflare)
+  [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https%3A%2F%2Fgithub.com%2Fxyd-js%2Fdeploy-samples-cloudflare%2Ftree%2Fmaster%2F)
   [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https%3A%2F%2Fgithub.com%2Fxyd-js%2Fdeploy-samples-render%2Ftree%2Fmaster)
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started)
   [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/ZweBXA)
