@@ -16,7 +16,7 @@
   [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/ZweBXA)
   [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/xyd-js/deploy-samples&base=amplify)
   [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&builder=buildpack&repository=github.com/koyeb/example-nestjs&branch=main&name=nestjs-on-koyeb)
-  [![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/xyd-js/deploy-samples/tree/master/digitalocean)
+  [![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/xyd-js/deploy-samples-digitalocean/tree/master)
   [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.StaticApp?resourceName=xyd-azure&repositoryUrl=https://github.com/xyd-js/deploy-samples&branch=master)
   
   <hr/>
