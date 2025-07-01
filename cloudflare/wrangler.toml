@@ -4,15 +4,3 @@ pages_build_output_dir = ".xyd/build/client"
 
 [build]
 command = "bunx @xyd-js/cli build"
-
-[[redirects]]
-from = "/"
-to = "/introduction/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/index.html"
-to = "/introduction/"
-status = 301
-force = true
