@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Deploy Samples</h1>
-  <p><h3 align="center">Ready-to-run <a href="https://xyd.dev"><code>xyd</code></a> deploys samples projects 🚀</h3></p>
+  <p><h3 align="center">Ready-to-run <a href="https://xyd.dev"><code>xyd</code></a> deploy samples 🚀</h3></p>
   <p align="center">
 
   <hr/>
