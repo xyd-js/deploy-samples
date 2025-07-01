@@ -1,18 +1,11 @@
-name = "xyd-cloudflare" 
+name = "xyd-cloudflare"
+main = "./src/index.ts"             
 compatibility_date = "2025-07-01"
-pages_build_output_dir = ".xyd/build/client"
 
 [build]
 command = "bunx @xyd-js/cli build"
 
-[[redirects]]
-from = "/"
-to = "/introduction/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/index.html"
-to = "/introduction/"
-status = 301
-force = true
+[assets]
+directory = ".xyd/build/client"     
+binding = "ASSETS"                  
+not_found_handling = "single-page-application"
