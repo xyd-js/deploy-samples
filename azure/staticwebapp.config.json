@@ -1,0 +1,14 @@
+{
+    "routes": [
+      {
+        "route": "/",
+        "redirect": "/introduction/",
+        "statusCode": 301
+      },
+      {
+        "route": "/index.html",
+        "redirect": "/introduction/",
+        "statusCode": 301
+      }
+    ]
+  }
