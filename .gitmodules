@@ -4,3 +4,6 @@
 [submodule "render"]
 	path = render
 	url = https://github.com/xyd-js/deploy-samples-render.git
+[submodule "cloudflare"]
+	path = cloudflare
+	url = https://github.com/xyd-js/deploy-samples-cloudflare.git
