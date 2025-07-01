@@ -1,3 +1,6 @@
 [submodule "digitalocean"]
 	path = digitalocean
 	url = https://github.com/xyd-js/deploy-samples-digitalocean.git
+[submodule "render"]
+	path = render
+	url = https://github.com/xyd-js/deploy-samples-render.git
