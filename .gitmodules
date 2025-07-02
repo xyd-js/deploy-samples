@@ -7,3 +7,6 @@
 [submodule "cloudflare"]
 	path = cloudflare
 	url = https://github.com/xyd-js/deploy-samples-cloudflare.git
+[submodule "codesandbox"]
+	path = codesandbox
+	url = https://github.com/xyd-js/deploy-samples-codesandbox.git

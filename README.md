@@ -17,7 +17,7 @@
   <hr/>
   <br/>
   
-  [![Open in CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/github/xyd-js/starter)
+  [![Open in CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/github/xyd-js/deploy-samples-codesandbox)
   [![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/xyd-js/starter)
   
 </p>
